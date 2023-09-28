@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
+<h3 align="center">welcome to my github</h3>
+
 - 🔭 I’m currently working on [CashApp](https://github.com/smon99/CashApp)
 
 - 🌱 I’m currently learning **php & python**

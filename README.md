@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **php & python**
 
-- ⚡ Fun fact **i have no idea what i am doing**
+- ⚡ Fun fact **i have no idea what i am doing but im working on it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
